@@ -62,7 +62,7 @@ Criar um dashboard executivo que permita comparar performance financeira, identi
 
 ---
 
-## 🔍 Principais Insights e Descobertas
+##  Principais Insights e Descobertas
 
 ### 1. Tech domina o crescimento e a criação de valor
 - NVIDIA, Microsoft, Apple e Amazon cresceram bastante em Revenue e Market Cap.
@@ -86,7 +86,7 @@ Criar um dashboard executivo que permita comparar performance financeira, identi
 
 ---
 
-## 📊 Dashboard Power BI — Estrutura Recomendada
+## Dashboard Power BI — Estrutura Recomendada
 
 ### Página 1: Executive Overview
 - KPI cards principais
@@ -118,7 +118,7 @@ Criar um dashboard executivo que permita comparar performance financeira, identi
 
 ---
 
-## 🛠️ Metodologia de Análise
+## Metodologia de Análise
 
 ### Etapa 1: Preparação de Dados
 - Limpeza e validação dos dados
@@ -141,7 +141,7 @@ Criar um dashboard executivo que permita comparar performance financeira, identi
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 financial-analysis-dashboard/
@@ -160,7 +160,7 @@ financial-analysis-dashboard/
 
 ---
 
-## 💼 Texto Profissional para CV / LinkedIn
+## Texto Profissional para CV / LinkedIn
 
 Desenvolvi um dashboard financeiro comparativo de 12 empresas líderes em tecnologia, banca, finanças e consumo, cobrindo o período de 2009 a 2023. Utilizei Excel para preparar e validar os dados e Power BI para construir um dashboard executivo com indicadores financeiros-chave como revenue, EBITDA, ROE, ROA, ROI, Net Profit Margin, Debt/Equity e Free Cash Flow. O projeto demonstrou a minha capacidade de transformar dados financeiros em insights de negócio, analisar tendências temporais e comunicar resultados com clareza para stakeholders.
 

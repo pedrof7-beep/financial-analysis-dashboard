@@ -13,7 +13,7 @@ Comparar crescimento das receitas, rentabilidade, geração de caixa, liquidez e
 ## Resultados principais
 - **Apple lidera em receitas:** 394 328 milhões de USD em 2022, cerca de 1,99 vezes as receitas da Microsoft e 1,39 vezes as da Alphabet.
 - **Microsoft lidera em margem líquida:** 36,69%, face a 25,31% da Apple e 21,20% da Alphabet. A margem de caixa operacional é também a mais elevada: 44,91%.
-- **Alphabet apresenta maior liquidez corrente e menor dívida/capital próprio:** 2,38 e 0,06, respetivamente. Na Apple, os mesmos rácios são 0,88 e 2,37.
+- **Alphabet apresenta maior liquidez corrente e menor dívida/capital próprio:** 2,37 e 0,06, respetivamente. Na Apple, os mesmos rácios são 0,88 e 2,37.
 
 ![Tabela comparativa extraída dos dados Excel](assets/comparacao_2022.png)
 

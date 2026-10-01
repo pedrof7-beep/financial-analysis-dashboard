@@ -1,5 +1,5 @@
 # Análise Financeira Comparativa
-**Apple · Alphabet · Microsoft | Excel e Power BI | 2009–2022**
+**Apple · Google · Microsoft | Excel e Power BI | 2009–2022**
 
 Projeto pessoal de análise financeira: da organização dos dados e cálculo de margens em Excel à comparação visual em Power BI.
 

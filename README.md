@@ -1,6 +1,6 @@
-# 📊 Financial Performance Analysis Dashboard 2009–2023
+# Financial Performance Analysis Dashboard 2009–2023
 
-## 🎯 Resumo Executivo
+## Resumo Executivo
 
 Análise financeira comparativa de 12 empresas líderes em tecnologia, banca, finanças, logística, manufatura e consumo, cobrindo um período de 15 anos (2009–2023). Este projeto demonstra capacidade profissional em análise de dados, business intelligence e transformação de informação em decisões estratégicas.
 
@@ -8,7 +8,7 @@ Ferramentas utilizadas: Excel, Power BI, análise financeira e storytelling de n
 
 ---
 
-## 📈 Contexto e Objetivo
+## Contexto e Objetivo
 
 ### Por que este projeto?
 Empresas precisam entender o seu posicionamento financeiro em relação aos concorrentes e ao mercado. Este projeto analisa:
@@ -22,7 +22,7 @@ Criar um dashboard executivo que permita comparar performance financeira, identi
 
 ---
 
-## 🏢 Dataset
+## Dataset
 
 ### Empresas Analisadas
 - AAPL
@@ -62,7 +62,7 @@ Criar um dashboard executivo que permita comparar performance financeira, identi
 
 ---
 
-## 🔍 Principais Insights e Descobertas
+## Principais Insights e Descobertas
 
 ### 1. Tech domina o crescimento e a criação de valor
 - NVIDIA, Microsoft, Apple e Amazon cresceram bastante em Revenue e Market Cap.
@@ -86,7 +86,7 @@ Criar um dashboard executivo que permita comparar performance financeira, identi
 
 ---
 
-## 📊 Dashboard Power BI — Estrutura Recomendada
+## Dashboard Power BI — Estrutura Recomendada
 
 ### Página 1: Executive Overview
 - KPI cards principais
@@ -118,7 +118,7 @@ Criar um dashboard executivo que permita comparar performance financeira, identi
 
 ---
 
-## 📸 Dashboard Screenshots
+## Dashboard Screenshots
 
 ### 1. Comparação financeira
 Este gráfico compara receitas e margem líquida entre Apple, Google e Microsoft ao longo dos anos, permitindo identificar padrões de crescimento e eficiência operacional.
@@ -142,7 +142,7 @@ Este indicador mede o nível de endividamento em relação ao capital próprio, 
 
 ---
 
-## 🛠️ Metodologia de Análise
+## Metodologia de Análise
 
 ### Etapa 1: Preparação de Dados
 - Limpeza e validação dos dados
@@ -166,7 +166,7 @@ Este indicador mede o nível de endividamento em relação ao capital próprio, 
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 ```text
 financial-analysis-dashboard/
@@ -188,7 +188,7 @@ financial-analysis-dashboard/
 
 ---
 
-## 📌 Competências Demonstradas
+## Competências Demonstradas
 
 Este projeto permite mostrar que o candidato sabe:
 - limpar e preparar dados reais;
@@ -200,13 +200,13 @@ Este projeto permite mostrar que o candidato sabe:
 
 ---
 
-## 💼 Texto Profissional para CV / LinkedIn
+## Texto Profissional para CV / LinkedIn
 
 Desenvolvi um dashboard financeiro comparativo de 12 empresas líderes em tecnologia, banca, finanças e consumo, cobrindo o período de 2009 a 2023. Utilizei Excel para preparar e validar os dados e Power BI para construir um dashboard executivo com indicadores financeiros-chave como revenue, EBITDA, ROE, ROA, ROI, Net Profit Margin, Debt/Equity e Free Cash Flow. O projeto demonstrou a minha capacidade de transformar dados financeiros em insights de negócio, analisar tendências temporais e comunicar resultados com clareza para stakeholders.
 
 ---
 
-## 🎓 Recomendações para apresentar o projeto
+## Recomendações para apresentar o projeto
 
 Para dar um melhor impacto no portfolio, recomenda-se:
 - incluir screenshots do dashboard;
@@ -216,7 +216,7 @@ Para dar um melhor impacto no portfolio, recomenda-se:
 
 ---
 
-## 🤝 Autor
+## Autor
 
 Pedro Fernandes  
 Recém-licenciado  

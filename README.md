@@ -157,21 +157,11 @@ financial-analysis-dashboard/
 └── .gitignore
 ```
 
-
----
-
-## Texto Profissional para CV / LinkedIn
-
-Desenvolvi um dashboard financeiro comparativo de 12 empresas líderes em tecnologia, banca, finanças e consumo, cobrindo o período de 2009 a 2023. Utilizei Excel para preparar e validar os dados e Power BI para construir um dashboard executivo com indicadores financeiros-chave como revenue, EBITDA, ROE, ROA, ROI, Net Profit Margin, Debt/Equity e Free Cash Flow. O projeto demonstrou a minha capacidade de transformar dados financeiros em insights de negócio, analisar tendências temporais e comunicar resultados com clareza para stakeholders.
-
----
-
 ##  Autor
 
 Pedro Oliveira  
-Recém-licenciado  
 Portfolio: https://github.com/pedrof7-beep
 
 ---
 
-Este projeto foi desenvolvido como portfolio profissional em análise financeira e business intelligence.
+Este projeto foi desenvolvido como portfolio profissional 

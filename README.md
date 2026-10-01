@@ -59,7 +59,6 @@ Os exercícios fiscais das empresas podem terminar em datas diferentes. A análi
 ## Fonte e reprodução
 Os ficheiros recebidos são preservados no pacote com nomes simplificados. O CSV já contém colunas de análise e não é apresentado como uma cópia verificada da fonte bruta. A origem pública e a licença do dataset ainda não foram identificadas; consultar [notas dos dados](docs/dados.md).
 
-Para explorar o trabalho, abrir o Excel ou descarregar o `.pbix` e abrir em Power BI Desktop. Se a atualização do Power BI pedir a localização do Excel, apontar para `analysis/analise_financeira.xlsx` na pasta local.
 
 ## Autor
-Pedro Fernandes · [GitHub](https://github.com/pedrof7-beep)
+Pedro Oliveira · [GitHub](https://github.com/pedrof7-beep)

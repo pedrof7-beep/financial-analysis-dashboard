@@ -118,6 +118,20 @@ Criar um dashboard executivo que permita comparar performance financeira, identi
 
 ---
 
+## Dashboard Principal
+
+Esta é a visualização central do projeto e representa a estrutura principal do dashboard financeiro comparativo desenvolvido em Power BI.
+
+![Dashboard principal](dashboard/screenshots/01-comparacao-financeira.png)
+
+### Principais conclusões do dashboard
+- Microsoft apresenta o maior crescimento em receitas ao longo do período analisado.
+- Apple mantém uma forte margem líquida e elevada capacidade de geração de valor.
+- Google revela uma posição financeira muito sólida em termos de liquidez.
+- O nível de dívida e a estrutura de capital continuam a ser indicadores fundamentais para avaliação de risco.
+
+---
+
 ## Dashboard Screenshots
 
 ### 1. Comparação financeira
